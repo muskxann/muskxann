@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Muskan%20Mundra&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%E2%9C%A8%20Building%20intelligent%20systems%20%E2%80%A2%20One%20project%20at%20a%20time%20%E2%9C%A8&descSize=18&descAlignY=60&descColor=c4b5fd" width="100%" alt="Muskan Mundra"/>
 
-<a href="https://github.com/muskanmundra18-lab">
+<a href="https://github.com/muskxann">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Muskan!;%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+Aspiring+AI+Engineer;%F0%9F%A7%A0+Exploring+RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+Deep+Learning;%F0%9F%8C%8D+On+the+road+to+Open+Source+%26+GSoC+2027;%E2%9C%A8+Learning+new+tech+is+always+fun!" alt="Typing animation"/>
 </a>
 
@@ -12,13 +12,13 @@
 <img src="https://img.shields.io/badge/B.Tech-EIE%20%40%20SGSITS-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Education"/>
 <img src="https://img.shields.io/badge/Indore-India-ec4899?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/badge/GSoC-2027%20Aspirant-06b6d4?style=for-the-badge&logo=google&logoColor=white" alt="GSoC"/>
-<img src="https://komarev.com/ghpvc/?username=muskanmundra18-lab&label=Visitors&style=for-the-badge&color=a855f7" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=muskxann&label=Visitors&style=for-the-badge&color=a855f7" alt="Visitors"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/muskan-mundra-50b58a210/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/muskanmundra18-lab?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github.com/muskanmundra18-lab?tab=followers"><img src="https://img.shields.io/github/followers/muskanmundra18-lab?label=Followers&style=flat-square&logo=github&color=7c3aed"/></a>
+<a href="https://github.com/muskxann?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/muskxann?tab=followers"><img src="https://img.shields.io/github/followers/muskxann?label=Followers&style=flat-square&logo=github&color=7c3aed"/></a>
 
 </div>
 
@@ -107,7 +107,7 @@ Turning ideas into practical AI apps that solve real problems
 <tr>
 <td width="50%" valign="top">
 
-### 📄 [Research Paper Analyser](https://github.com/muskanmundra18-lab/research-paper-analyser)
+### 📄 [Research Paper Analyser](https://github.com/muskxann/research-paper-analyser)
 A **RAG pipeline** that analyses scientific papers and answers your questions about them.
 
 `Python` `RAG` `Streamlit`
@@ -115,7 +115,7 @@ A **RAG pipeline** that analyses scientific papers and answers your questions ab
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [YouTube Video Analyser](https://github.com/muskanmundra18-lab/YouTube_video_analyser)
+### 🎬 [YouTube Video Analyser](https://github.com/muskxann/YouTube_video_analyser)
 An **AI agent** that analyses YouTube videos and pulls out the information that matters.
 
 `Python` `Agno` `Streamlit`
@@ -125,7 +125,7 @@ An **AI agent** that analyses YouTube videos and pulls out the information that 
 <tr>
 <td width="50%" valign="top">
 
-### 🐦 [Flappy Bird AI](https://github.com/muskanmundra18-lab/Flappy-bird)
+### 🐦 [Flappy Bird AI](https://github.com/muskxann/Flappy-bird)
 Training a **reinforcement learning** neural network to master Flappy Bird.
 
 `Python` `Reinforcement Learning` `Neural Nets`
@@ -133,7 +133,7 @@ Training a **reinforcement learning** neural network to master Flappy Bird.
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ [CNN · CIFAR-10](https://github.com/muskanmundra18-lab/CNN-CIFAR10)
+### 🖼️ [CNN · CIFAR-10](https://github.com/muskxann/CNN-CIFAR10)
 A **convolutional neural network** for image classification on CIFAR-10.
 
 `Python` `CNN` `Deep Learning`
@@ -143,7 +143,7 @@ A **convolutional neural network** for image classification on CIFAR-10.
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Sentiment Analysis](https://github.com/muskanmundra18-lab/sentiment-analysis)
+### 💬 [Sentiment Analysis](https://github.com/muskxann/sentiment-analysis)
 An **RNN** that classifies IMDB movie reviews as positive, negative, or neutral.
 
 `Python` `RNN` `NLP`
@@ -151,7 +151,7 @@ An **RNN** that classifies IMDB movie reviews as positive, negative, or neutral.
 </td>
 <td width="50%" valign="top">
 
-### 📝 [Text Summariser](https://github.com/muskanmundra18-lab/text-summariser)
+### 📝 [Text Summariser](https://github.com/muskxann/text-summariser)
 Text summarisation powered by **Hugging Face Transformers**.
 
 `Python` `Transformers` `NLP`
@@ -161,7 +161,7 @@ Text summarisation powered by **Hugging Face Transformers**.
 <tr>
 <td colspan="2" align="center">
 
-### 🛒 [SmartCart Clustering](https://github.com/muskanmundra18-lab/smartcart-clustering)
+### 🛒 [SmartCart Clustering](https://github.com/muskxann/smartcart-clustering)
 A customer segmentation system built with **unsupervised ML algorithms**.
 
 `Python` `Scikit-learn` `Clustering`
@@ -170,7 +170,7 @@ A customer segmentation system built with **unsupervised ML algorithms**.
 </tr>
 </table>
 
-<a href="https://github.com/muskanmundra18-lab?tab=repositories">
+<a href="https://github.com/muskxann?tab=repositories">
   <img src="https://img.shields.io/badge/%F0%9F%93%82%20View%20All%20Repositories-7c3aed?style=for-the-badge"/>
 </a>
 
@@ -221,14 +221,14 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muskanmundra18-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=f472b6&text_color=e5e7eb" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanmundra18-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muskxann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=f472b6&text_color=e5e7eb" alt="Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskxann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=muskanmundra18-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=muskxann&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=muskanmundra18-lab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muskxann&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanmundra18-lab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ffffff&area=true&area_color=7c3aed" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskxann&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ffffff&area=true&area_color=7c3aed" alt="Activity graph"/>
 
 </div>
 
@@ -236,9 +236,9 @@ flowchart LR
 <!-- Needs .github/workflows/snake.yml (provided separately). Delete this block if you skip the snake. -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskanmundra18-lab/muskanmundra18-lab/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskanmundra18-lab/muskanmundra18-lab/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/muskanmundra18-lab/muskanmundra18-lab/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskxann/muskxann/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskxann/muskxann/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/muskxann/muskxann/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -250,7 +250,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muskan-mundra-50b58a210/"><img src="https://img.shields.io/badge/LinkedIn-Say%20Hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/muskanmundra18-lab"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/muskxann"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
