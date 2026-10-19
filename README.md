@@ -30,7 +30,6 @@ My journey started with machine learning and deep learning, and I'm now explorin
 * Building practical AI/ML projects from experimentation to deployment.
 * Exploring Retrieval-Augmented Generation (RAG), LLMs, and AI agents.
 * Learning backend development and tools for production-ready AI applications.
-* Interested in open-source software and **Google Summer of Code 2027**.
 * Believer in learning by building, breaking things, and debugging them again.
 
 **Current focus:** AI Engineering · RAG Systems · Agentic AI · Open Source
@@ -168,7 +167,6 @@ I'm working toward becoming a stronger AI engineer by focusing on:
 * Building reliable RAG applications.
 * Experimenting with multi-agent architectures and tool use.
 * Strengthening my understanding of ML fundamentals and deep learning.
-* Preparing for meaningful open-source contributions and GSoC 2027.
 
 I value projects that combine solid engineering with useful applications of AI.
 
